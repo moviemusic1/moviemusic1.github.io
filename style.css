@@ -7,12 +7,7 @@ html, body {
 div {
 	padding: 1.25em;
 	margin: 1.25em;
-	box-shadow: 0px 4px 10px rgba(0,0,0,0.125);
 	transition: 250ms;
-}
-
-div:hover {
-	box-shadow: 0px 6px 12px rgba(0,0,0,0.2);
 }
 
 h1 {
